@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-import datetime
 import argparse
 
 from cryptography.hazmat.primitives.asymmetric import ec
